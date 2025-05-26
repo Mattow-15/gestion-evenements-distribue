@@ -1,0 +1,16 @@
+[ {
+  "@class" : "com.eventsystem.model.Conference",
+  "id" : "2240",
+  "nom" : "Mattane",
+  "date" : [ 2025, 5, 26, 23, 30, 7, 932423100 ],
+  "lieu" : "Yaoundé",
+  "capaciteMax" : 200,
+  "participants" : [ "java.util.ArrayList", [ {
+    "@class" : "com.eventsystem.model.Participant",
+    "id" : "22P540",
+    "nom" : "Owona",
+    "email" : "aku@gmail.com"
+  } ] ],
+  "theme" : "",
+  "intervenants" : [ "java.util.Arrays$ArrayList", [ "" ] ]
+} ]

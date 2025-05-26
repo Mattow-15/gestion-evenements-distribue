@@ -1,0 +1,11 @@
+[ "java.util.ArrayList", [ {
+  "@class" : "com.eventsystem.model.Conference",
+  "id" : "22",
+  "nom" : "aiaai",
+  "date" : [ 2025, 5, 26, 23, 51, 59, 583739800 ],
+  "lieu" : "YAounde",
+  "capaciteMax" : 200,
+  "participants" : [ "java.util.ArrayList", [ ] ],
+  "theme" : "",
+  "intervenants" : [ "java.util.Arrays$ArrayList", [ "" ] ]
+} ] ]
